@@ -4,7 +4,7 @@
 
 ## Expected Outcome
 
-![Shopping Cart](shopping-cart.gif)
+![ezgif com-gif-maker](https://github.com/cihanbagriyanik/Shopping_Card_react-axios-hooks-router-mockapi/assets/132518854/dadab6ce-6ab1-42d7-af0e-1698e45889e2)
 
 ## Description
 
