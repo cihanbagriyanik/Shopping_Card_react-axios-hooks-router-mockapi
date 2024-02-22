@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-md bg-secondary">
       <div className="container-fluid">
-        <span className="navbar-brand text-white">Shopping Card</span>
+        <span className="navbar-brand text-white">Shopping Cart</span>
         <button
           className="navbar-toggler"
           type="button"
